@@ -1,4 +1,4 @@
-![REACT Developer](https://document-export.canva.com/8qZ1s/DAEu3r8qZ1s/39/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20211105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211105T055702Z&X-Amz-Expires=38283&X-Amz-Signature=d6072e2a4004403d4ed32e33ea129d19c87ef53732a49e20c6356ae5c5678add&X-Amz-SignedHeaders=host&response-expires=Fri%2C%2005%20Nov%202021%2016%3A35%3A05%20GMT)
+![REACT Developer](https://github.com/Darkskittlz/portfolioReactWebsite/blob/main/public/assets/Jeremy%20Neal%20%20(1).png?raw=true)
 ### Hi there 👋, Jeremy Neal
 #### REACT Developer
 
