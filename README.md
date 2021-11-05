@@ -16,3 +16,5 @@ I am a MERN stack developer currently interning with Project ANT, a platform for
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkskittlz)](https://github.com/anuraghazra/github-readme-stats)
 
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v0.0.18
