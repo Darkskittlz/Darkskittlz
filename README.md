@@ -1,6 +1,6 @@
 ![REACT Developer](https://github.com/Darkskittlz/portfolioReactWebsite/blob/main/public/assets/Jeremy%20Neal%20.png?raw=true)
 
-#Jeremy Neal
+# Jeremy Neal
 #### REACT Developer
 I am a MERN stack developer currently interning with Project ANT, a platform for freelancer developers to connect with companies. I specialize in frontend design.
 
