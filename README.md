@@ -20,5 +20,5 @@ I am a MERN stack developer currently interning with Project ANT, a platform for
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkskittlz)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/darkskittlz/snk/raw/output/github-contribution-grid-snake.svg)
 
