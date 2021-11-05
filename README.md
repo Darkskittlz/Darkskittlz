@@ -1,5 +1,8 @@
 ![REACT Developer](<https://github.com/Darkskittlz/portfolioReactWebsite/blob/main/public/assets/Jeremy%20Neal%20%20(1).png?raw=true>)
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 ### Hi there 👋, Jeremy Neal
 
 #### REACT Developer
@@ -17,3 +20,4 @@ I am a MERN stack developer currently interning with Project ANT, a platform for
 - 💻HTML, CSS, JS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkskittlz)](https://github.com/anuraghazra/github-readme-stats)
+
