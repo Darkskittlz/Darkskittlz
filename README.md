@@ -1,4 +1,4 @@
-![REACT Developer](<https://github.com/Darkskittlz/portfolioReactWebsite/blob/main/public/assets/Jeremy%20Neal%20%20(1).png?raw=true>)
+![REACT Developer](https://github.com/Darkskittlz/E-Portfolio/blob/main/public/images/ProperHeaderLOGO.png?raw=true)
 
 
 
