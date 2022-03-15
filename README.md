@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋, Tristan Neal
+### Hi there 👋, I'm Tristan
 
 #### REACT Developer
 
