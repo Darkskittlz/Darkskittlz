@@ -6,7 +6,7 @@
 
 #### REACT Developer
 
-I am a MERN stack developer currently interning with Project ANT, a platform for freelancer developers to connect with companies. I specialize in frontend design.
+I am a MERN stack developer currently freelancing on full-stack React applications and blockchain/Web3 projects. 
 
 ## Skills and Experience
 
