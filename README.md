@@ -1,4 +1,4 @@
-![REACT Developer](https://github.com/Darkskittlz/E-Portfolio/blob/main/public/images/ProperHeaderLOGO.png?raw=true)
+![REACT Developer](https://github.com/Darkskittlz/E-Portfolio/blob/main/public/images/headerLogo.png?raw=true)
 
 
 
