@@ -1,4 +1,4 @@
-![REACT Developer](https://github.com/Darkskittlz/E-Portfolio/blob/main/public/images/headerLogo.png?raw=true)
+![REACT Developer](https://raw.githubusercontent.com/Darkskittlz/E-Portfolio/8b08a2789e14d5a6f025e795a270fc9a15965c0c/public/images/Tristan%20Neal%20(1).svg)
 
 
 
