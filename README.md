@@ -19,5 +19,4 @@ I am a MERN stack developer currently freelancing on full-stack React applicatio
 - 💻HTML, CSS, JS
 
 ![](https://github.com/darkskittlz/snk/raw/output/github-contribution-grid-snake.svg)
-![DevCard](https://api.daily.dev/devcards/ea1b86f4f62542fd8e6d56e1dd5a75f1.png?r=z6u)
 
