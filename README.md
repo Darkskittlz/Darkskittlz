@@ -18,7 +18,6 @@ I am a MERN stack developer currently freelancing on full-stack React applicatio
 - 🐳DOCKER
 - 💻HTML, CSS, JS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkskittlz)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://github.com/darkskittlz/snk/raw/output/github-contribution-grid-snake.svg)
+![DevCard](https://api.daily.dev/devcards/ea1b86f4f62542fd8e6d56e1dd5a75f1.png?r=z6u)
 
