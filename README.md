@@ -6,7 +6,7 @@
 
 #### REACT Developer
 
-I am a MERN stack developer currently freelancing on full-stack React applications and blockchain/Web3 projects. 
+I am a MERN stack developer currently working as a web developer with Breezeline. 
 
 ## Skills and Experience
 
