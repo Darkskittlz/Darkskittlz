@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋, I'm Jeremy
+### Hi there 👋, I'm Tristan
 
 #### REACT Developer
 
